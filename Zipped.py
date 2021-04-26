@@ -8,4 +8,3 @@ for i in  (zip(*MarksSheet)):
     total_no_of_subject = len(i)
     average = sum_of_no / total_no_of_subject
     print(average)
-    
