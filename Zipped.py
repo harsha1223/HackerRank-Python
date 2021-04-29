@@ -1,5 +1,4 @@
 N , X = map(int,input().split())
-
 MarksSheet = []
 for i in range (X):
     MarksSheet.append(map(float,input().split()))
