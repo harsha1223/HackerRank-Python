@@ -1,4 +1,4 @@
-K = int(input())
+k = int(input())
 Group = input().split()
 s1=set();  
 s2=set();  
