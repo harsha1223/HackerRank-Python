@@ -13,5 +13,4 @@ for i in range(N):
         s1.symmetric_difference_update(s2)
     elif(operation_name == "difference_update"):
         s1.difference_update(s2)
-
 print(sum(s1))
