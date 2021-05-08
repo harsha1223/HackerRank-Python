@@ -2,7 +2,6 @@ No_of_element_set_A = int(input())
 s1 = set(map(int, input().split()))
 N = int(input())
 
-
 for i in range(N):
     operation_name, No_of_element_set_A = input().split()
     s2 = set(map(int, input().split()))
