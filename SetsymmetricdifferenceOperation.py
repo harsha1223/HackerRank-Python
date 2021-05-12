@@ -1,4 +1,4 @@
-d = int(input())
+v = int(input())
 set_1 = set(map(int,input().split()))
 b = int(input())
 set_2 = set(map(int,input().split()))
